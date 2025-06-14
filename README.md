@@ -7,6 +7,6 @@ this is how it looks, might not be useable half the time because gmod freezes wh
 make sure to have "custom HTML loading screens checked" (Settings > Game)
 ![alt text](enablehtml.png)
 
-modify line 11 in "loading.html" to change the website, feel free to reupload but credit me if you do.
+modify line 11 in "loading.html" to change the website, feel free to reupload and modify, as i'm not the first to have done this LOL.
 ![alt text](modify.png)
 
